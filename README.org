@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       FE07BCA2-AEF1-43D5-8E93-1BFBD1EFEF49
+:END:
+[[https://nixos.org][Nix]] [[https://zero-to-nix.com/concepts/flakes][flake]] for the [[https://github.com/blahgeek/emacs-lsp-booster][emacs-lsp-booster]] program. This program is a wrapper for an LSP server that translates LSP JSON into emacs-lisp bytecode that [[https://www.gnu.org/software/emacs/][emacs]] can ingest more efficiently than JSON objects.
